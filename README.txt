@@ -9,5 +9,7 @@ make sure to also remove the brackets
 
 The database table in this example has STORE, SN, FAULT and DATE - you can adjust these to suit your own needs throughout the ACTION_PAGE.PHP, INDEX.PHP and BACKEND-SEARCH.PHP.
 
+For Loging in you have to update the CONFIG.PHP file with a username and password, the password needs to be salted first. When entering the password in the login screen you will use the unsalted password you used.
+
 When all the requirements and adjustments have been made to suit, upload the file into where you want to host your site i.e /var/www/equipment.fault.tracking.com
 then head to your domain address in your browser (tested on firefox, chrome and brave)
