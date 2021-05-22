@@ -1,3 +1,5 @@
+A very simple equipment fault tracking form which can send data to a mariadb/mysql database. This also has support to search the database.
+
 Requirements:
 
 Webserver with your domain linked (caddy,nginx,apache2)
