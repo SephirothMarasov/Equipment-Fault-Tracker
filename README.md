@@ -6,7 +6,7 @@ A very simple equipment fault tracking form which can send data to a mariadb/mys
 
 * PHP
 * Webserver with your domain linked (*caddy,nginx,apache2*)
-
+* Mariadb/Mysql
 
 Mysql or Mariadb database with a table set up. This set-up needs your database name and table name inserted I have marked where you need to do this with [INSERT TABLE NAME/DB NAME HERE], 
 make sure to also remove the brackets. 
