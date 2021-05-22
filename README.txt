@@ -20,4 +20,4 @@ For Loging in you have to update the CONFIG.PHP file with a username and passwor
 When all the requirements and adjustments have been made to suit, upload the file into where you want to host your site i.e /var/www/equipment.fault.tracking.com
 then head to your domain address in your browser (tested on firefox, chrome and brave)
 
-![](zLBZXZYduQ.png)
+![Fault Tracker](zLBZXZYduQ.png)
