@@ -11,7 +11,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-			<title>JOB TRACKING</title>
+			<title>Equipment Fault Tracking</title>
 
 	</header>
 
