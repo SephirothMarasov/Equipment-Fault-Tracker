@@ -39,7 +39,7 @@
 	<label for="fault4">No fault found</label><br>
 	<br>
 	<input type="date" id="date" name="date">
-	<label for="date">YYYY/MM/DD:</label><br>
+	<label for="date"></label><br>
 	<br>
 	<input type="submit" value="Submit" name="submit"><br>
 	<br>
