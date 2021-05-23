@@ -30,7 +30,7 @@
 	<input type="text" id"sn" name="sn" value=""><br>
 	<br>
 	<input type="radio" id="fault1" name="fault" value="mechanical">
-	<label for="mechanical">Mechanical</label><br>
+	<label for="fault1">Mechanical</label><br>
 	<input type="radio" id="fault2" name="fault" value="electrical">
 	<label for="fault2">Electrical</label><br>
 	<input type="radio" id="fault3" name="fault" value="blockage">
